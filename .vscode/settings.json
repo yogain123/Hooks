@@ -1,0 +1,5 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact" // to enable emmet in js file
+  }
+}
