@@ -6,7 +6,6 @@ import React, {
   useCallback,
   useMemo
 } from "react";
-import "./App.css";
 import HooksMouse from "./HooksMouse";
 import HooksReducer from "./HooksReducer";
 import Random from "./Random";
